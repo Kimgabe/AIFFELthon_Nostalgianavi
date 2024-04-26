@@ -1,0 +1,4 @@
+# Firebase
+/Frontend_Application/android/app/google-services.json
+/Frontend_Application/ios/Runner/GoogleService-Info.plist
+/Frontend_Application/lib/firebase_options.dart
